@@ -10,13 +10,14 @@ lerna-debug.log*
 node_modules
 .DS_Store
 dist
+src/firebase/firebase.js
 dist-ssr
 coverage
 *.local
 
 /cypress/videos/
 /cypress/screenshots/
-/firebase
+
 
 # Editor directories and files
 .vscode/*
