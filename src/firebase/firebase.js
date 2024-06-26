@@ -4,12 +4,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC-Njb56U3C-iSo6k6_7V66f-I3cYgat5Y",
+  apiKey: "",
   authDomain: "note-app-authentication.firebaseapp.com",
   projectId: "note-app-authentication",
   storageBucket: "note-app-authentication.appspot.com",
-  messagingSenderId: "264825935427",
-  appId: "1:264825935427:web:5bc188e366de34bcd866f6",
+  messagingSenderId: "",
+  appId: "",
 };
 
 const app = initializeApp(firebaseConfig);
